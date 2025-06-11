@@ -85,7 +85,7 @@ If you do not have node.js in your system, refer to the [documentation](https://
 
 2. Clone the repo
    ```sh
-   git clone https://github.com/ShreeshaM07/eco-footprint-tracker.git
+   git clone https://github.com/Bindug19/bindu.git
    ```
 3. Install NPM packages
    ```sh
